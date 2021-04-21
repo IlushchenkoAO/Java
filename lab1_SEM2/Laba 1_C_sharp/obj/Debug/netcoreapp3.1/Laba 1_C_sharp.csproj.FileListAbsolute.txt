@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.exe
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.deps.json
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.runtimeconfig.json
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.dll
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\bin\Debug\netcoreapp3.1\Laba 1_C_sharp.pdb
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba_1_C_sharp.Form1.resources
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.dll
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.pdb
+C:\Users\Admin\source\repos\Laba 1_C_sharp\Laba 1_C_sharp\obj\Debug\netcoreapp3.1\Laba 1_C_sharp.genruntimeconfig.cache
